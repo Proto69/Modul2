@@ -9,4 +9,5 @@
 # Напредък:
 - [x] 10 - упражнение 1 [може да го намерите тук](https://github.com/Proto69/Modul2/tree/main/03/10.1)
 - [x] 10 - упражнение 2 [може да го намерите тук](https://github.com/Proto69/Modul2/tree/main/03/10.2)
-- [ ] 11 - упражнение 1 [може да го намерите тук](https://github.com/Proto69/Modul2/tree/main/03/11.1)
+- [x] 11 - упражнение 1 [може да го намерите тук](https://github.com/Proto69/Modul2/tree/main/03/11.1)
+- [ ] 11 - упражнение 2
