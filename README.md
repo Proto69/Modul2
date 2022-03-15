@@ -6,7 +6,7 @@
 Задачите могат да се изтeглят от [тук](https://www.dropbox.com/s/vj3ex9f1ptqozo2/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B8%20%D0%BA%D1%8A%D0%BC%20%D0%BA%D1%83%D1%80%D1%81%D0%B0-20220130.zip?dl=0)
 
 
-#Напредък:
+# Напредък:
 - [x] 10 - упражнение 1 [може да го намерите тук](https://github.com/Proto69/Modul2/tree/main/03/10.1)
 - [x] 10 - упражнение 2 [може да го намерите тук](https://github.com/Proto69/Modul2/tree/main/03/10.2)
-- [ ] 11 - упражнение 1
+- [ ] 11 - упражнение 1 [може да го намерите тук](https://github.com/Proto69/Modul2/tree/main/03/11.1)
