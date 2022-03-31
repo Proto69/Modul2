@@ -15,4 +15,5 @@
 - [x] 13 - твърде лесно е, няма смисъл да качвам нещо
 - [x] 14 - [може да го намерите тук](https://github.com/Proto69/Modul2/tree/main/03/14)
 - [x] 15 - [може да го намерите тук](https://github.com/Proto69/Modul2/tree/main/03/15)
-- [ ] 16
+- [x] 16 - [може да го намерите тук](https://github.com/Proto69/Modul2/tree/main/03/16)
+- [x] 17 - същото като 16
