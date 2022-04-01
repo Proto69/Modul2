@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using System.Collections.Generic;
 
@@ -12,14 +12,13 @@ namespace ConsoleApp1
             int system = commands[0];
             int number = commands[1];
             int result = 0;
-            List<int> arr = result.ToString().Split("").Select(int.Parse).ToList();
+            List<int> arr = new List<int>();
+            arr.Add(result);
             for (int i = 0; i < number; i++)
             {
                 for (int j = 0; j < arr.Count; j++)
                 {
-                    
-                    string test = system.ToString();//това е самата система
-                    if (arr[j].ToString() == test)
+                    if (arr[j] == system)
                     {
                         arr[j] = 0;
                         try
