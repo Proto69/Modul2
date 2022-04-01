@@ -16,6 +16,7 @@ namespace ConsoleApp1
             arr.Add(result);
             for (int i = 0; i < number; i++)
             {
+                arr[0]++;
                 for (int j = 0; j < arr.Count; j++)
                 {
                     if (arr[j] == system)
@@ -31,7 +32,6 @@ namespace ConsoleApp1
                         }
                     }
                 }
-                arr[0]++;
             }
             arr.Reverse();
             Console.WriteLine(string.Join("", arr));
