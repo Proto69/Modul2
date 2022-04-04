@@ -17,4 +17,6 @@
 - [x] 15 - [може да го намерите тук](https://github.com/Proto69/Modul2/tree/main/03/15)
 - [x] 16 - [може да го намерите тук](https://github.com/Proto69/Modul2/tree/main/03/16)
 - [x] 17 - същото като 16
-- [ ] 18
+- [x] 18 - [може да го намерите тук](https://github.com/Proto69/Modul2/tree/main/03/18)
+- [x] 21 - [може да го намерите тук](https://github.com/Proto69/Modul2/tree/main/05/21)
+- [ ] 22
